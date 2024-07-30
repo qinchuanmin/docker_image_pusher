@@ -1,2 +1,1 @@
-nginx
-kube-controllers:v3.27.0
+docker.io/library/nginx:latest
