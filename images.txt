@@ -1,1 +1,2 @@
 nginx
+kube-controllers:v3.27.0
